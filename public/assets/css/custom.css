@@ -1,0 +1,11 @@
+.sidebar-panel.is-generic .inner li.active {
+  color: #671cc9 !important;
+}
+
+.sidebar-panel.is-generic .inner li.active a {
+  color: #671cc9 !important;
+}
+
+.lnil{
+  color: inherit !important;
+}
