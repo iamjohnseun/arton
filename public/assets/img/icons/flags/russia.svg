@@ -1,1 +1,43 @@
-<svg id="Countryflags.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 450 300"><defs><style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:#fff;}.cls-4{fill:#d52b1e;}.cls-5{fill:#0039a6;}</style><clipPath id="clip-path" transform="translate(75)"><circle class="cls-1" cx="150" cy="150" r="150"/></clipPath></defs><g class="cls-2"><rect id="_3" data-name="3" class="cls-3" width="450" height="150"/><rect id="_2" data-name="2" class="cls-4" y="150" width="450" height="150"/><rect id="_1" data-name="1" class="cls-5" y="100" width="450" height="100"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#F0F0F0;}
+	.st2{display:inline;}
+	.st3{display:inline;fill:#FFDA44;}
+	.st4{display:inline;fill:#6DA544;}
+	.st5{display:inline;fill:#0052B4;}
+	.st6{display:inline;fill:#D80027;}
+	.st7{clip-path:url(#SVGID_1_);}
+	.st8{fill:#FFFFFF;}
+	.st9{fill:#D52B1E;}
+	.st10{fill:#0039A6;}
+</style>
+<g id="Layer_1" class="st0">
+	<circle class="st1" cx="256" cy="256" r="256"/>
+	<path class="st2" d="M75,437C-25,337-25,175,75,75c0,0,147.6,181,147.6,181L75,437z"/>
+	<path class="st3" d="M222.6,256L34,128.5c-5.8,10.2-11,20.8-15.4,31.8L114,256l-95.5,95.7c4.4,11,9.6,21.6,15.4,31.7L222.6,256z"/>
+	<path class="st4" d="M509.8,222.6H222.6L75,75c-15.9,15.9-29.7,33.9-41,53.5L161.2,256L33.9,383.5c11.3,19.6,25.1,37.6,41,53.5
+		l147.6-147.6h287.2c1.4-10.9,2.2-22.1,2.2-33.4C512,244.7,511.3,233.5,509.8,222.6z"/>
+	<path class="st5" d="M100.1,459.1C143.3,492.3,197.3,512,256,512c118.3,0,217.8-80.2,247.2-189.2H236.4L100.1,459.1z"/>
+	<path class="st6" d="M503.2,189.2C473.8,80.2,374.3,0,256,0c-58.7,0-112.7,19.7-155.9,52.9l136.3,136.3L503.2,189.2L503.2,189.2z"
+		/>
+</g>
+<g id="Layer_2">
+	<g>
+		<defs>
+			<circle id="SVGID_3_" cx="256.5" cy="256.5" r="256.5"/>
+		</defs>
+		<clipPath id="SVGID_1_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st7">
+			<rect id="_3" x="-128.3" class="st8" width="769.5" height="256.5"/>
+			<rect id="_2" x="-128.3" y="256.5" class="st9" width="769.5" height="256.5"/>
+			<rect id="_1" x="-128.3" y="171" class="st10" width="769.5" height="171"/>
+		</g>
+	</g>
+</g>
+</svg>
