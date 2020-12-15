@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { useState } from 'react';
 import {BrowserRouter as Router, Switch, Route, Redirect} from 'react-router-dom';
 
 //VIEWS
@@ -12,14 +12,10 @@ import setting from './views/setting';
 import profile from './views/profile';
 import error from './views/error';
 
-class App extends Component {
-  state = {
-    redirect: false,
-    link: ''
-  }
+export default function App() {
 
-  render() {
-    return (
+  return (
+    <>
       <Router>
           <div className="App">
             <Switch>
@@ -36,9 +32,6 @@ class App extends Component {
             </Switch>
           </div>
       </Router>
-    );
-  }
-
+    </>
+  );
 }
-
-export default App;
