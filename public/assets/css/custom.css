@@ -6,6 +6,27 @@
   color: #671cc9 !important;
 }
 
-.lnil{
+.lnil {
   color: inherit !important;
+}
+
+.main-sidebar.is-mini {
+  border: 1px solid #e3e3e3 !important;
+  border-radius: 40px;
+  height: auto;
+  /* min-height: 600px; */
+  top: 25%;
+  left: 30px;
+}
+
+.main-sidebar.is-mini .sidebar-inner .naver{
+  top: auto;
+}
+
+.main-sidebar.is-mini .sidebar-inner .bottom-menu{
+  position: relative;
+}
+
+.main-sidebar.is-mini .sidebar-brand img{
+  width: 65px;
 }
