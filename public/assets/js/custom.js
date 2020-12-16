@@ -7,3 +7,4 @@
 //     toggleCircularMenu();
 //   };
 // }
+feather.replace();
